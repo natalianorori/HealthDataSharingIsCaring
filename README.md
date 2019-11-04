@@ -46,7 +46,8 @@ If you contributed, let us know [here] (https://github.com/natalianorori/HealthD
 
 If you want to keep up to date with the repo, please consider subscribing to issues you consider interesting. 
 
-Email Natalia at natalianorori@gmail.com or tweet at [ @natalianorori ] ( https://twitter.com/natalianorori ) if you have any questions, would like to chat, or replicate the session in your community or institution. 
+Email Natalia at natalianorori@gmail.com or tweet at [@natalianorori](https://twitter.com/natalianorori).
+if you have any questions, would like to chat, or replicate the session in your community or institution. 
 
 "Health Data Sharing is Caring" was co-facillitated by Stefano Vrizzi and Natalia Norori. All the materials in this repository are licensed CC-BY 4.0  
 
