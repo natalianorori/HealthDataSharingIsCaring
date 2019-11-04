@@ -36,7 +36,7 @@ Possible solutions, recommendations and routes of actions.
 
 You can read about our learnings and submit your questions, challenges and solutions in the issues section of the repo. We invite session participants, and anyone interested to keep the conversation going. The end goal of this project is to share our learnings and findings with fellow researchers,  institutions, or anyone interested in working towards making science more open. 
 
-You can also access the session participant's thoughts on each poster [here](https://github.com/natalianorori/HealthDataSharingIsCaring/blob/master/_Participant's%20thoughts%20on%20session%20posters%20-%20Health%20data%20sharing%20is%20caring%20.pdf)
+You can also access the session participant's thoughts on each poster [here](https://github.com/natalianorori/HealthDataSharingIsCaring/blob/master/_Participant's%20thoughts%20on%20session%20posters%20-%20Health%20data%20sharing%20is%20caring%20.pdf).
 
 ## Want to contribute? 
 
