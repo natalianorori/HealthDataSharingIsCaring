@@ -4,7 +4,7 @@ Welcome to the repository for the "Health Data Sharing is Caring" session, which
 
 This repository serves as a space to collaborate towards the implementation of better practices to address the class imbalance problem in healthcare datasets, and contains session notes, materials and resources used in the session, and learnings and future ideas in the form of github issues.
 
-All session materials are safely preserved in Zenodo, you can download them [here](https://zenodo.org/record/3519870#.XcCfRUVKhZ1).
+All session materials are safely preserved in Zenodo, you can download them [here](https://zenodo.org/record/3519870#.XcCfRUVKhZ1). 
 
 ## A brief introduction to data imbalances in healthcare 
 
@@ -35,6 +35,8 @@ Design thinking questions heavily inspired in OpenCon's do-a-thon challenges.
 Possible solutions, recommendations and routes of actions. 
 
 You can read about our learnings and submit your questions, challenges and solutions in the issues section of the repo. We invite session participants, and anyone interested to keep the conversation going. The end goal of this project is to share our learnings and findings with fellow researchers,  institutions, or anyone interested in working towards making science more open. 
+
+You can also access the session participant's thoughts on each poster [here](https://github.com/natalianorori/HealthDataSharingIsCaring/blob/master/_Participant's%20thoughts%20on%20session%20posters%20-%20Health%20data%20sharing%20is%20caring%20.pdf)
 
 ## Want to contribute? 
 
