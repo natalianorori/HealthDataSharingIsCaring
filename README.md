@@ -4,6 +4,7 @@ Welcome to the repository for the "Health Data Sharing is Caring" session, which
 
 This repository serves as a space to collaborate towards the implementation of better practices to address the class imbalance problem in healthcare datasets, and contains session notes, materials and resources used in the session, and learnings and future ideas in the form of github issues.
 
+All session materials are safely preserved in Zenodo, you can download them [here (https://zenodo.org/record/3519870#.XcCelUVKhZ0)]
 
 ## A brief introduction to data imbalances in healthcare 
 
