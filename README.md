@@ -43,6 +43,8 @@ We are seeking contributors to help us expand ideas in github issues.  If anythi
 
 If you contributed, let us know here. If you were in the Mozfest session, write your name here for us to credit you. 
 
+If you want to keep up to date with the repo, please consider subscribing to issues you consider interesting. 
+
 Email Natalia at natalianorori@gmail.com if you have any questions, would like to chat, or replicate the session in your community or institution. 
 
 "Health Data Sharing is Caring" was co-facillitated by Stefano Vrizzi and Natalia Norori. All the materials in this repository are licensed CC-BY 4.0  
