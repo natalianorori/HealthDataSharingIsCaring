@@ -42,11 +42,11 @@ This repository is the end product of collaboration between session attendees, p
 
 We are seeking contributors to help us expand ideas in github issues.  If anything you've read seems interesting to you,  we invite you to contribute by commenting on existing issues, or creating new ones. 
 
-If you contributed, let us know here. If you were in the Mozfest session, write your name here for us to credit you. 
+If you contributed, let us know [here] (https://github.com/natalianorori/HealthDataSharingIsCaring/issues/10). If you were in the Mozfest session, write your name [here] (https://github.com/natalianorori/HealthDataSharingIsCaring/issues/10) for us to credit you. 
 
 If you want to keep up to date with the repo, please consider subscribing to issues you consider interesting. 
 
-Email Natalia at natalianorori@gmail.com if you have any questions, would like to chat, or replicate the session in your community or institution. 
+Email Natalia at natalianorori@gmail.com or tweet at [@natalianorori] (https://twitter.com/natalianorori) if you have any questions, would like to chat, or replicate the session in your community or institution. 
 
 "Health Data Sharing is Caring" was co-facillitated by Stefano Vrizzi and Natalia Norori. All the materials in this repository are licensed CC-BY 4.0  
 
