@@ -42,7 +42,7 @@ This repository is the end product of collaboration between session attendees, p
 
 We are seeking contributors to help us expand ideas in github issues.  If anything you've read seems interesting to you,  we invite you to contribute by commenting on existing issues, or creating new ones. 
 
-If you contributed, let us know [here] (https://github.com/natalianorori/HealthDataSharingIsCaring/issues/10). If you were in the Mozfest session, write your name [here] (https://github.com/natalianorori/HealthDataSharingIsCaring/issues/10) for us to credit you. 
+If you contributed, let us know [here](https://github.com/natalianorori/HealthDataSharingIsCaring/issues/10). If you were in the Mozfest session, write your name [here](https://github.com/natalianorori/HealthDataSharingIsCaring/issues/10) for us to credit you. 
 
 If you want to keep up to date with the repo, please consider subscribing to issues you consider interesting. 
 
