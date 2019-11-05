@@ -25,7 +25,7 @@ The goal of this repository is to serve as a channel to:
  
  ## Mozfest learnings 
  
- During the Mozfest 90 minute session, participants were invited to interact with 8 posters inspired in the Matrix red pill blue pill analogy. In each poster, the blue pill contained information on the advantages that artificial intelligence, machine learning and open datasets offer to healthcare, and the red pills contained less talked about but very crucial facts that prevent us from seeing the real benefits of healthcare applied technologies.  
+ During the Mozfest 90 minute session, participants were invited to interact with 8 posters inspired in the [Matrix red pill blue pill analogy](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill). In each poster, the blue pill contained information on the advantages that artificial intelligence, machine learning and open datasets offer to healthcare, and the red pills contained less talked about but very crucial facts that prevent us from seeing the real benefits of healthcare applied technologies.  
 
 The 25 session participants shared their thoughts, ideas and questions in the form of post-its, that were later discussed and implemented as session learnings that are now distributed as issues on this repository. 
 
