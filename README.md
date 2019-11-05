@@ -40,7 +40,7 @@ You can also access the session participant's thoughts on each poster and add yo
 
 ## Want to run your own session? 
 
-We'd be happy to help you remix the session! We have uploaded a remixable session plan here. Please feel free to adapt it to your needs and do get in touch if you need any assistance during the process. 
+We'd be happy to help you remix the session! We have uploaded a remixable session plan [here](https://github.com/natalianorori/HealthDataSharingIsCaring/blob/master/Session%20plan%20-%20Health%20Data%20Sharing%20is%20Caring.pdf). Please feel free to adapt it to your needs and do get in touch if you need any assistance during the process. 
 
 If you decide to run your own session let us know by signing up [here](https://github.com/natalianorori/HealthDataSharingIsCaring/issues/10).
 
