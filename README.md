@@ -40,7 +40,7 @@ You can also access the session participant's thoughts on each poster and add yo
 
 ## Want to contribute? 
 
-This repository is the end product of collaboration between session attendees, participants, and people interested in the project who could not attend the live session.
+This repository is the  product of collaboration between session attendees, participants, and people interested in the project who could not attend the live session.
 
 We are seeking contributors to help us expand ideas in github issues.  If anything you've read seems interesting to you,  we invite you to contribute by commenting on existing issues, or creating new ones. 
 
