@@ -38,6 +38,12 @@ You can read about our learnings and submit your questions, challenges and solut
 
 You can also access the session participant's thoughts on each poster and add your own [here](https://github.com/natalianorori/HealthDataSharingIsCaring/issues/11). We highly encourage you to add your ideas, our project would be nothing without participants like yourself! 
 
+## Want to run your own session? 
+
+We'd be happy to help you remix the session! We have uploaded a remixable session plan here. Please feel free to adapt it to your needs and do get in touch if you need any assistance during the process. 
+
+If you decide to run your own session let us know by signing up [here](https://github.com/natalianorori/HealthDataSharingIsCaring/issues/10).
+
 ## Want to contribute? 
 
 This repository is the  product of collaboration between session attendees, participants, and people interested in the project who could not attend the live session.
