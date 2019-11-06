@@ -1,8 +1,8 @@
 # Health Data Sharing Is Caring
 
-Welcome to the repository for the "Health Data Sharing is Caring" session, which was part of the Mozilla Festival 2019 Openness space. 
+Welcome to the repository for the "Health Data Sharing is Caring" session, which was part of  Mozilla Festival 2019 Openness space. 
 
-This repository serves as a space to collaborate towards the implementation of better practices to address the class imbalance problem in healthcare datasets, and contains session notes, materials and resources used in the session, and learnings and future ideas in the form of github issues.
+This repository serves as a space to collaborate towards the implementation of better practices to address the class imbalance problem in healthcare datasets. The repository contains the code,session plan,  materials and other resources used in the session as well as notes, learnings and future ideas for the project. 
 
 All session materials are safely preserved in Zenodo, you can download them [here](https://zenodo.org/record/3519870#.XcCfRUVKhZ1). 
 
