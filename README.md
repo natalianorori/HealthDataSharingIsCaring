@@ -1,12 +1,12 @@
 # Health Data Sharing Is Caring
 
-Welcome to the repository for the "Health Data Sharing is Caring" session, which was part of  Mozilla Festival 2019 Openness space. 
+Welcome to the repository for the "Health Data Sharing is Caring" session, which was part of  Mozilla Festival's 2019 Openness space. 
 
 This repository serves as a space to collaborate towards the implementation of better practices to address the class imbalance problem in healthcare datasets. The repository contains the code,session plan,  materials and other resources used in the session as well as notes, learnings and future ideas for the project. 
 
 All session materials are safely preserved in Zenodo, you can download them [here](https://zenodo.org/record/3519870#.XcCfRUVKhZ1). 
 
-## A brief introduction to data imbalances in healthcare 
+## A brief introduction to data imbalances and data bias in healthcare 
 
 Machine Learning has the potential to revolutionize global health. A crucial step to unleash this potential is training the algorithms on rich data samples that accurately represent the population they will be implemented in.  If the training data is misrepresentative of the variability present in the population, Machine Learning is prone to reinforcing  inequality and bias. In healthcare, this could lead to dangerous outcomes, including misdiagnoses, missing diagnosis or poor treatment plans.
 
@@ -21,7 +21,7 @@ The goal of this repository is to serve as a channel to:
 
 ## Why is this important? 
 
- Global issues need a global approach. For us to truly experience and take advantage of new technology systems that rely on machine learning to solve current world issues, we need to make sure to take into account the needs of all. Healthcare datasets can help us improve global health, but they also come with great risks if misused. It is important to be aware of the problems to find viable solutions. 
+ Global issues need a global approach. For us to truly experience and take advantage of machine learning and emergent technologies, we need to make sure to take into account the needs of all. Healthcare datasets can help us improve global health, but they also come with great risks if misused. It is important to raise awareness of these risks and find viable ways to prevent them. 
  
  ## Mozfest learnings 
  
