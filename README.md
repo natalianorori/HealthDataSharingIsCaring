@@ -59,6 +59,23 @@ if you have any questions, would like to chat, or replicate the session in your 
 
 "Health Data Sharing is Caring" was co-facillitated by Stefano Vrizzi and Natalia Norori. All the materials in this repository are licensed CC-BY 4.0  
 
+## session participants 
+
+Sakthi Anand
+Yash Chaubey
+Vishal Pandey
+Bala Subramaniyan
+Gopala Krishna
+Anne Clinio
+Athina Tzovara
+Micah Vandegrift
+Damian O.Eke
+Stefano Vrizzi
+Joscha Jäger
+George Ogoh
+Natalia Norori 
+Stefano Vrizzi 
+
 
  
  
