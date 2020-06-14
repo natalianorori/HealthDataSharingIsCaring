@@ -8,24 +8,24 @@ All session materials are safely preserved in Zenodo, you can download them [her
 
 ## A brief introduction to data imbalances and data bias in healthcare 
 
-Machine Learning has the potential to revolutionize global health. A crucial step to unleash this potential is training the algorithms on rich data samples that accurately represent the population they will be implemented in.  If the training data is misrepresentative of the variability present in the population, Machine Learning is prone to reinforcing  inequality and bias. In healthcare, this could lead to dangerous outcomes, including misdiagnoses, missing diagnosis or poor treatment plans.
+Open Data  has the potential to revolutionize global health. A crucial step to unleash this potential, but If the training data is misrepresentative of the variability present in the population, it is prone to reinforcing  inequality and bias. In healthcare, this could lead to dangerous outcomes, including misdiagnoses, missing diagnosis or poor treatment plans.
 
 Algorithms are needed to advance healthcare, and open data offers the possibility of producing more powerful models, but unfortunately, the medical datasets openly available for use by data scientists and  researchers are notoriously biased. 
 
 ## Repo Goal 
 
 The goal of this repository is to serve as a channel to: 
-1. Raise awareness on the underrepresentation of minorities in health datasets, as the lack of available data about certain communities affects AI algorithm accountability, thus its impact on global health. 
+1. Raise awareness on the underrepresentation of minorities in health datasets, as the lack of available data about certain communities affects disease control plans and accountability, thus its impact on global health. 
 
 2. Discuss how balanced healthcare datasets might help us develop more accurate diagnostic tools as well as avoid discrimination and inequality in healthcare. 
 
 ## Why is this important? 
 
- Global issues need a global approach. For us to truly experience and take advantage of machine learning and emergent technologies, we need to make sure to take into account the needs of all. Healthcare datasets can help us improve global health, but they also come with great risks if misused. It is important to raise awareness of these risks and find viable ways to prevent them. 
+ Global issues need a global approach. For us to truly experience and take advantage of Open Data and emergent technologies, we need to make sure to take into account the needs of all. Healthcare datasets can help us improve global health, but they also come with great risks if misused. It is important to raise awareness of these risks and find viable ways to prevent them. 
  
  ## Mozfest learnings 
  
- During the Mozfest 90 minute session, participants were invited to interact with 8 posters inspired in the [Matrix red pill blue pill analogy](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill). In each poster, the blue pill contained information on the advantages that artificial intelligence, machine learning and open datasets offer to healthcare, and the red pills contained less talked about but very crucial facts that prevent us from seeing the real benefits of healthcare applied technologies.  
+ During the Mozfest 90 minute session, participants were invited to interact with 8 posters inspired in the [Matrix red pill blue pill analogy](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill). In each poster, the blue pill contained information on the advantages that open datasets offer to healthcare, and the red pills contained less talked about but very crucial facts that prevent us from seeing the real benefits of healthcare applied technologies.  
 
 The 25 session participants shared their thoughts, ideas and questions in the form of post-its, that were later discussed and implemented as session learnings that are now distributed as issues on this repository. 
 
